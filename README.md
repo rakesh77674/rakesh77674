@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **portfolio**
+ 🔭 I’m currently Studying Master in Data Analytics at webster University
  
  🌱 I’m currently learning **Dart, Supabase, AWS**
 
