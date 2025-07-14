@@ -12,7 +12,7 @@
  
  🔭 I’m currently Studying Master in Data Analytics at webster University
  
- 🌱 I’m currently learning **Dart, Supabase, AWS**
+ 🌱 I’m currently learning **Python, SQL, POWER BI**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here]()**
 
