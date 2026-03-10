@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rakesh+Chaudhary!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Nepal</h3>
+<h3 align="center">A Aspiring Data Analyst from Nepal</h3>
 
 <br/>
 
@@ -13,8 +13,6 @@
  🔭 I’m currently Studying Master in Data Analytics at webster University
  
  🌱 I’m currently learning **Python, SQL, POWER BI**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here]()**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
